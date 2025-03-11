@@ -33,7 +33,7 @@ public class tc1 extends ReportGenerator {
         
         }
         
-        test = extent.startTest("Login Test");
+        test = extent.startTest("Test1");
         test.log(LogStatus.INFO, "Browser opened and navigated to LetCode login page");
     }
 	@Given("I open the LetCode login page")

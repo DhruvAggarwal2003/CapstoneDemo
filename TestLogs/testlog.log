@@ -96,3 +96,15 @@
 2025-03-11 03:05:55 INFO  capstonelog4j:8 - User is in the homePage
 2025-03-11 03:06:02 INFO  capstonelog4j:8 - User is in the loginPage
 2025-03-11 03:06:02 INFO  capstonelog4j:8 - Entering the username and password
+2025-03-11 03:20:58 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:20:59 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 03:21:01 INFO  capstonelog4j:8 - User is in the productPage
+2025-03-11 03:21:11 INFO  capstonelog4j:8 - Browser closed
+2025-03-11 03:21:28 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:21:28 INFO  capstonelog4j:8 - User is in the coursePage
+2025-03-11 03:21:28 INFO  capstonelog4j:8 - User gets the number of courses available
+2025-03-11 03:21:29 INFO  capstonelog4j:8 - Closing browser
+2025-03-11 03:21:38 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:21:39 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 03:21:46 INFO  capstonelog4j:8 - User is in the loginPage
+2025-03-11 03:21:46 INFO  capstonelog4j:8 - Entering the username and password
