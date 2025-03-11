@@ -9,14 +9,17 @@ import demoobjectmodel.productPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import utility.capstonelog4j;
-public class Tc3 extends capstonelog4j {
+import utility.ReportGenerator;
+
+public class Tc3 extends ReportGenerator {
 	WebDriver driver;
 	@Given("the user is on the products page")
 	public void the_user_is_on_the_products_page() throws InterruptedException {
+		
 		driver = new EdgeDriver();
 	    driver.get("http://letcode.in");
 		System.out.println("Main Page Appears");
+		test = extent.startTest("Test3");
 	    Thread.sleep(2000);
 	    writeLog("Browser launched");
 	}

@@ -12,3 +12,87 @@
 2025-03-10 22:34:29 INFO  capstonelog4j:8 - User is in the loginPage
 2025-03-10 22:34:30 INFO  capstonelog4j:8 - Entering the username and password
 2025-03-10 22:34:32 INFO  capstonelog4j:8 - Browser Closed
+2025-03-11 02:44:42 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:44:43 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 02:44:45 INFO  capstonelog4j:8 - User is in the productPage
+2025-03-11 02:44:55 INFO  capstonelog4j:8 - Browser closed
+2025-03-11 02:45:11 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:45:11 INFO  capstonelog4j:8 - User is in the coursePage
+2025-03-11 02:45:11 INFO  capstonelog4j:8 - User gets the number of courses available
+2025-03-11 02:45:12 INFO  capstonelog4j:8 - Closing browser
+2025-03-11 02:45:21 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:45:22 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 02:45:29 INFO  capstonelog4j:8 - User is in the loginPage
+2025-03-11 02:45:30 INFO  capstonelog4j:8 - Entering the username and password
+2025-03-11 02:49:04 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:49:05 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 02:49:07 INFO  capstonelog4j:8 - User is in the productPage
+2025-03-11 02:49:17 INFO  capstonelog4j:8 - Browser closed
+2025-03-11 02:49:33 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:49:33 INFO  capstonelog4j:8 - User is in the coursePage
+2025-03-11 02:49:33 INFO  capstonelog4j:8 - User gets the number of courses available
+2025-03-11 02:49:33 INFO  capstonelog4j:8 - Closing browser
+2025-03-11 02:49:41 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:49:52 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 02:49:58 INFO  capstonelog4j:8 - User is in the loginPage
+2025-03-11 02:49:59 INFO  capstonelog4j:8 - Entering the username and password
+2025-03-11 02:53:55 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:53:55 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 02:53:58 INFO  capstonelog4j:8 - User is in the productPage
+2025-03-11 02:54:08 INFO  capstonelog4j:8 - Browser closed
+2025-03-11 02:54:25 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:54:25 INFO  capstonelog4j:8 - User is in the coursePage
+2025-03-11 02:54:25 INFO  capstonelog4j:8 - User gets the number of courses available
+2025-03-11 02:54:26 INFO  capstonelog4j:8 - Closing browser
+2025-03-11 02:54:35 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:54:35 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 02:54:41 INFO  capstonelog4j:8 - User is in the loginPage
+2025-03-11 02:54:42 INFO  capstonelog4j:8 - Entering the username and password
+2025-03-11 02:56:48 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:56:48 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 02:56:51 INFO  capstonelog4j:8 - User is in the productPage
+2025-03-11 02:57:01 INFO  capstonelog4j:8 - Browser closed
+2025-03-11 02:57:15 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:57:15 INFO  capstonelog4j:8 - User is in the coursePage
+2025-03-11 02:57:16 INFO  capstonelog4j:8 - User gets the number of courses available
+2025-03-11 02:57:16 INFO  capstonelog4j:8 - Closing browser
+2025-03-11 02:57:25 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 02:57:25 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 02:57:32 INFO  capstonelog4j:8 - User is in the loginPage
+2025-03-11 02:57:32 INFO  capstonelog4j:8 - Entering the username and password
+2025-03-11 03:00:18 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:00:19 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 03:00:21 INFO  capstonelog4j:8 - User is in the productPage
+2025-03-11 03:00:31 INFO  capstonelog4j:8 - Browser closed
+2025-03-11 03:00:45 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:00:46 INFO  capstonelog4j:8 - User is in the coursePage
+2025-03-11 03:00:46 INFO  capstonelog4j:8 - User gets the number of courses available
+2025-03-11 03:00:46 INFO  capstonelog4j:8 - Closing browser
+2025-03-11 03:00:55 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:00:55 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 03:01:02 INFO  capstonelog4j:8 - User is in the loginPage
+2025-03-11 03:01:03 INFO  capstonelog4j:8 - Entering the username and password
+2025-03-11 03:02:44 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:02:44 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 03:02:47 INFO  capstonelog4j:8 - User is in the productPage
+2025-03-11 03:02:57 INFO  capstonelog4j:8 - Browser closed
+2025-03-11 03:03:10 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:03:10 INFO  capstonelog4j:8 - User is in the coursePage
+2025-03-11 03:03:10 INFO  capstonelog4j:8 - User gets the number of courses available
+2025-03-11 03:03:11 INFO  capstonelog4j:8 - Closing browser
+2025-03-11 03:03:19 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:03:20 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 03:03:26 INFO  capstonelog4j:8 - User is in the loginPage
+2025-03-11 03:03:26 INFO  capstonelog4j:8 - Entering the username and password
+2025-03-11 03:05:18 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:05:18 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 03:05:20 INFO  capstonelog4j:8 - User is in the productPage
+2025-03-11 03:05:30 INFO  capstonelog4j:8 - Browser closed
+2025-03-11 03:05:44 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:05:44 INFO  capstonelog4j:8 - User is in the coursePage
+2025-03-11 03:05:45 INFO  capstonelog4j:8 - User gets the number of courses available
+2025-03-11 03:05:45 INFO  capstonelog4j:8 - Closing browser
+2025-03-11 03:05:55 INFO  capstonelog4j:8 - Browser launched
+2025-03-11 03:05:55 INFO  capstonelog4j:8 - User is in the homePage
+2025-03-11 03:06:02 INFO  capstonelog4j:8 - User is in the loginPage
+2025-03-11 03:06:02 INFO  capstonelog4j:8 - Entering the username and password

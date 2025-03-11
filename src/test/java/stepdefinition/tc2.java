@@ -12,15 +12,16 @@ import demoobjectmodel.coursePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import utility.capstonelog4j;
+import utility.ReportGenerator;
 
-public class tc2 extends capstonelog4j {
+public class tc2 extends ReportGenerator {
 	WebDriver driver;
 	@Given("The user is on the courses page")
 	public void the_user_is_on_the_courses_page() {
 		driver = new EdgeDriver();	
 		driver.get("https://letcode.in/");
 		writeLog("Browser launched");
+		test = extent.startTest("Test2");
 	}
 	@When("The user views the list of available courses")
 	public void the_user_views_the_list_of_available_courses() {
